@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+_educativo/<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feeds de IEDIB</title>
-    <link>https://johnyfw.github.io/centro_educativo.xml</link>
+    <link>https://johnyfw.github.io/centro_educativo/centro_educativo.xml</link>
     <description>Avisos y novedades publicadas en el IEDIB</description>
     <language>es-es</language>
     <atom:link href="https://johnyfw.github.io/centro_educativo.xml"
