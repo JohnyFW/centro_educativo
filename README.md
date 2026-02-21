@@ -1,1 +1,10 @@
-<h1> El readme de centro educativo </h1>
+	<body>
+  <h1>Bienvenido a mi pagina web</h1>
+  <p>Aqui estan nuestras noticias relacionadas con el IEDIB</p>
+  <p>
+    <a href="https://johnyfw.github.io/centro_educativo.xml">
+      <img src="https://johnyfw.github.io/img/rss-icon.png" alt="Icona RSS" style="width:20px;height:20px;">
+      Subscribete y dale like :D RSS
+    </a>
+  </p>
+</body>  
