@@ -3,14 +3,17 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feeds de IEDIB</title>
-    <link>https://johnyfw.github.io/centro_educativo/centro_educativo.xml</link>
+    <link>https://johnyfw.github.io/centro_educativo.xml</link>
     <description>Avisos y novedades publicadas en el IEDIB</description>
     <language>es-es</language>
+    <atom:link href="https://johnyfw.github.io/centro_educativo.xml"
+               rel="self"
+               type="application/rss+xml" />
     <item>
       <title>Matricula extraordinaria preparacion PAU</title>
       <description>Informacion sobre el plazo extraordinario de matricula para la preparacion de la PAU.</description>
       <link>https://iedib.net/wordpress/?p=4176</link>
-      <pubDate>Mon, 17 Feb 2026 08:30:00 GMT</pubDate>
+      <pubDate>Tue, 17 Feb 2026 08:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://iedib.net/wordpress/?p=4176</guid>
     </item>
     <item>
