@@ -5,7 +5,6 @@
     <link>https://johnyfw.github.io/centro_educativo/centro_educativo.xml</link>
     <description>Avisos y novedades publicadas en el IEDIB</description>
     <language>es-es</language>
-
     <item>
       <title>Matricula extraordinaria preparacion PAU</title>
       <description>Informacion sobre el plazo extraordinario de matricula para la preparacion de la PAU.</description>
@@ -13,7 +12,6 @@
       <pubDate>Tue, 17 Feb 2026 08:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://iedib.net/wordpress/?p=4176</guid>
     </item>
-
     <item>
       <title>Escritorios virtuales IsardVDI en IEDIB</title>
       <description>Implementacion del sistema IsardVDI para mejorar el acceso a recursos virtuales del alumnado.</description>
@@ -21,6 +19,5 @@
       <pubDate>Tue, 16 Dec 2025 09:45:00 GMT</pubDate>
       <guid isPermaLink="true">https://iedib.net/wordpress/?p=5621</guid>
     </item>
-
   </channel>
 </rss>
